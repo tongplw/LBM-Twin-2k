@@ -1,0 +1,136 @@
+{
+  "status": "fixed_budget_protocol",
+  "protocol": "persona_only_new_people_known_question_families",
+  "main_task_groups": 17,
+  "diagnostic_families": 19,
+  "participant_split": {
+    "train": 1440,
+    "dev": 309,
+    "test": 309,
+    "preserve_existing_assignments": true
+  },
+  "primary_setting": "safe_history_without_previous_target_answers",
+  "secondary_setting": "same_people_and_questions_with_previous_target_answer; planned_not_implemented",
+  "model": "Qwen/Qwen3.5-0.8B",
+  "model_class": "Qwen3_5ForConditionalGeneration",
+  "input_modality": "text_only",
+  "enable_thinking": false,
+  "prompt_role": "assistant",
+  "training_targets": "train participants, wave4_Q_wave1_3_A",
+  "development_targets": "dev participants, wave4_Q_wave4_A",
+  "final_test_targets": "test participants, wave4_Q_wave4_A",
+  "input_source": "wave1_3_persona_json",
+  "pilot_question_ids": [
+    "QID183",
+    "QID184",
+    "QID192",
+    "QID193",
+    "QID196"
+  ],
+  "evidence_mode": "full_history",
+  "experiment_plan": {
+    "core": [
+      "E1_personalization_controls",
+      "E2_question_only_vs_full_history_sft",
+      "E3_hybrid_retrieval"
+    ],
+    "required_sft_conditions": [
+      "question_only",
+      "full_history"
+    ],
+    "optional_training": [
+      "history_dropout"
+    ],
+    "secondary_checks": [
+      "thinking_mode",
+      "persona_wording"
+    ],
+    "excluded_core_augmentation": [
+      "question_paraphrases",
+      "survey_option_reordering",
+      "teacher_explanations",
+      "history_order_sweep"
+    ],
+    "donor_controls_status": "three_seeded_within_split_derangements; demographic_matching_not_run"
+  },
+  "retrieval": {
+    "role": "E3_controlled_comparison",
+    "method": "within_person_hybrid_bm25_semantic_rrf",
+    "implemented_modes": [
+      "full_history",
+      "bm25",
+      "semantic",
+      "hybrid",
+      "random"
+    ],
+    "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+    "embedding_similarity": "cosine",
+    "embedding_training": "none",
+    "fusion": "reciprocal_rank_fusion",
+    "rrf_constant": 60,
+    "rrf_equal_branch_weights": true,
+    "keyword_zero_match_contribution": 0,
+    "k": 16,
+    "comparison_k": [
+      16
+    ],
+    "planned_unit": "self_contained_question_answer_item_with_matrix_rows_separated",
+    "implemented_unit": "self_contained_matrix_row_or_inseparable_record; lossless_shared_wording_rendering",
+    "k1": 1.5,
+    "b": 0.75,
+    "include_demographics": true,
+    "demographics_policy": "fixed_comparison_condition_not_an_optimality_claim",
+    "random_length_policy": "same_item_count; actual_packed_history_tokens_matched_to_2_percent_when_feasible; residual_reported"
+  },
+  "max_sequence_tokens": 262144,
+  "context_policy": "model_native_limit; preserve_all_safe_history; no_truncation; dynamic_padding",
+  "context_limit_source": "https://huggingface.co/Qwen/Qwen3.5-0.8B/blob/main/config.json",
+  "objective": "answer_only_cross_entropy",
+  "lora": {
+    "r": 8,
+    "alpha": 16,
+    "dropout": 0.05,
+    "target_modules": "language_backbone_linear_layers"
+  },
+  "optimizer": {
+    "name": "AdamW",
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "clip_grad_norm": 1.0
+  },
+  "training": {
+    "microbatch": 1,
+    "gradient_accumulation": 32,
+    "warmup_ratio": 0.05,
+    "seed": 42,
+    "cuda_dtype": "bfloat16"
+  },
+  "selection_metric": "development_task_group_macro_partial_credit_all_17_groups",
+  "calibration": "one_scalar_temperature_fitted_on_development_predictions",
+  "primary_acceptance": {
+    "relative_nll_improvement_over_strongest_statistical_baseline": 0.02,
+    "paired_ci_level": 0.95,
+    "scope": "historical_secondary_probability_quality_target; not_the_partial_credit_selection_rule"
+  },
+  "deferred": [
+    "DPO",
+    "GRPO",
+    "teacher_rationales",
+    "external_tools"
+  ],
+  "execution_budget": {
+    "max_optimizer_updates": 128,
+    "gradient_accumulation": 32,
+    "evaluation_every_updates": 32,
+    "training_draws_per_condition": 4096,
+    "wall_clock_target_hours": 48,
+    "sampler": "participant_task_balanced_question_sampling",
+    "epoch_claim": "not_a_complete_epoch",
+    "checkpoint_selection": "highest_development_macro_partial_credit",
+    "ideal_stopping": "development_plateau_or_degradation; numerical_divergence_is_an_error",
+    "development_participants": 309
+  },
+  "dataset_revision": "f883165a3026fde855dfd448e0cd16443ab257b6",
+  "model_revision": "2fc06364715b967f1860aea9cf38778875588b17",
+  "embedding_revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3"
+}

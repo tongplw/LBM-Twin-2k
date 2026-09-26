@@ -1,0 +1,12 @@
+{
+  "question_only": [
+    {
+      "from_update": 32,
+      "microbatch": 32,
+      "cpu_threads": 2,
+      "checkpointing": true
+    }
+  ],
+  "full_history": [],
+  "question_only_prediction_reuse": true
+}

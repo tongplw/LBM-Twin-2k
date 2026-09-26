@@ -1,0 +1,541 @@
+condition,item,valid,attempted,mae,median_absolute_error
+common_answer,Anchoring - African countries high|QID166|0,154,154,14.922077922077921,10.0
+common_answer,Anchoring - African countries low|QID164|0,155,155,19.883870967741935,16.0
+common_answer,Anchoring - redwood high|QID170|0,162,162,603.5166666666668,250.0
+common_answer,Anchoring - redwood low|QID168|0,147,147,90.43333333333334,50.0
+common_answer,Base-rate 30 engineers|QID154|1,154,154,22.538961038961038,20.0
+common_answer,Base-rate 70 engineers|QID156|1,155,155,10.438709677419356,5.0
+common_answer,Non-experimental heuristics and biases|QID290|1,309,309,17.203883495145632,15.0
+common_answer,Non-experimental heuristics and biases|QID290|10,309,309,20.12297734627832,18.0
+common_answer,Non-experimental heuristics and biases|QID290|11,309,309,17.563106796116504,13.0
+common_answer,Non-experimental heuristics and biases|QID290|12,309,309,19.6084142394822,18.0
+common_answer,Non-experimental heuristics and biases|QID290|2,309,309,18.844660194174757,17.0
+common_answer,Non-experimental heuristics and biases|QID290|3,309,309,18.472491909385113,15.0
+common_answer,Non-experimental heuristics and biases|QID290|4,309,309,18.116504854368934,16.0
+common_answer,Non-experimental heuristics and biases|QID290|5,309,309,17.207119741100325,14.0
+common_answer,Non-experimental heuristics and biases|QID290|6,309,309,17.71197411003236,15.0
+common_answer,Non-experimental heuristics and biases|QID290|7,309,309,18.16504854368932,17.0
+common_answer,Sunk cost - no|QID181|0,164,164,3.7378048780487805,3.0
+common_answer,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+price_aware,Anchoring - African countries high|QID166|0,154,154,14.922077922077921,10.0
+price_aware,Anchoring - African countries low|QID164|0,155,155,19.883870967741935,16.0
+price_aware,Anchoring - redwood high|QID170|0,162,162,603.5166666666668,250.0
+price_aware,Anchoring - redwood low|QID168|0,147,147,90.43333333333334,50.0
+price_aware,Base-rate 30 engineers|QID154|1,154,154,22.538961038961038,20.0
+price_aware,Base-rate 70 engineers|QID156|1,155,155,10.438709677419356,5.0
+price_aware,Non-experimental heuristics and biases|QID290|1,309,309,17.203883495145632,15.0
+price_aware,Non-experimental heuristics and biases|QID290|10,309,309,20.12297734627832,18.0
+price_aware,Non-experimental heuristics and biases|QID290|11,309,309,17.563106796116504,13.0
+price_aware,Non-experimental heuristics and biases|QID290|12,309,309,19.6084142394822,18.0
+price_aware,Non-experimental heuristics and biases|QID290|2,309,309,18.844660194174757,17.0
+price_aware,Non-experimental heuristics and biases|QID290|3,309,309,18.472491909385113,15.0
+price_aware,Non-experimental heuristics and biases|QID290|4,309,309,18.116504854368934,16.0
+price_aware,Non-experimental heuristics and biases|QID290|5,309,309,17.207119741100325,14.0
+price_aware,Non-experimental heuristics and biases|QID290|6,309,309,17.71197411003236,15.0
+price_aware,Non-experimental heuristics and biases|QID290|7,309,309,18.16504854368932,17.0
+price_aware,Sunk cost - no|QID181|0,164,164,3.7378048780487805,3.0
+price_aware,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+human_retest,Anchoring - African countries high|QID166|0,154,154,14.448051948051948,10.0
+human_retest,Anchoring - African countries low|QID164|0,155,155,11.845161290322581,6.0
+human_retest,Anchoring - redwood high|QID170|0,162,162,484.64691358024686,115.0
+human_retest,Anchoring - redwood low|QID168|0,147,147,64.83877551020407,23.0
+human_retest,Base-rate 30 engineers|QID154|1,154,154,17.40909090909091,10.0
+human_retest,Base-rate 70 engineers|QID156|1,155,155,13.72258064516129,7.0
+human_retest,Non-experimental heuristics and biases|QID290|1,309,309,14.300970873786408,10.0
+human_retest,Non-experimental heuristics and biases|QID290|10,309,309,15.488673139158577,10.0
+human_retest,Non-experimental heuristics and biases|QID290|11,309,309,15.36569579288026,11.0
+human_retest,Non-experimental heuristics and biases|QID290|12,309,309,16.640776699029125,12.0
+human_retest,Non-experimental heuristics and biases|QID290|2,309,309,15.737864077669903,11.0
+human_retest,Non-experimental heuristics and biases|QID290|3,309,309,16.145631067961165,12.0
+human_retest,Non-experimental heuristics and biases|QID290|4,309,309,15.511326860841423,12.0
+human_retest,Non-experimental heuristics and biases|QID290|5,309,309,16.585760517799354,13.0
+human_retest,Non-experimental heuristics and biases|QID290|6,309,309,16.498381877022652,11.0
+human_retest,Non-experimental heuristics and biases|QID290|7,309,309,14.977346278317151,10.0
+human_retest,Sunk cost - no|QID181|0,164,164,3.0792682926829267,2.0
+human_retest,Sunk cost - yes|QID182|0,145,145,5.475862068965517,5.0
+frozen_question_only,Anchoring - African countries high|QID166|0,154,154,49.12987012987013,49.0
+frozen_question_only,Anchoring - African countries low|QID164|0,155,155,33.45161290322581,31.0
+frozen_question_only,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_question_only,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_question_only,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_question_only,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|1,309,309,46.63106796116505,45.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|10,309,309,35.82200647249191,34.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|11,309,309,42.336569579288025,43.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|12,309,309,43.94174757281554,46.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|2,309,309,54.51456310679612,55.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|3,309,309,51.57605177993528,53.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|4,309,309,44.44012944983819,45.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|5,309,309,40.346278317152105,40.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|6,309,309,51.689320388349515,50.0
+frozen_question_only,Non-experimental heuristics and biases|QID290|7,309,309,32.6957928802589,29.0
+frozen_question_only,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+frozen_question_only,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+frozen_demographics,Anchoring - African countries high|QID166|0,154,154,49.29220779220779,49.0
+frozen_demographics,Anchoring - African countries low|QID164|0,155,155,33.63225806451613,31.0
+frozen_demographics,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_demographics,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_demographics,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_demographics,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|1,309,309,37.3042071197411,35.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|10,309,309,54.19093851132686,56.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|11,309,309,48.711974110032365,47.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|12,309,309,47.029126213592235,44.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|2,309,309,36.26860841423948,35.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|3,309,309,39.23300970873787,37.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|4,309,309,45.47572815533981,45.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|5,309,309,49.957928802588995,50.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|6,309,309,38.4789644012945,40.0
+frozen_demographics,Non-experimental heuristics and biases|QID290|7,309,309,57.1294498381877,60.0
+frozen_demographics,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+frozen_demographics,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+frozen_full_history,Anchoring - African countries high|QID166|0,154,154,48.98051948051948,49.0
+frozen_full_history,Anchoring - African countries low|QID164|0,155,155,33.25806451612903,30.0
+frozen_full_history,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_full_history,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_full_history,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_full_history,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|1,51,309,43.11764705882353,40.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|10,51,309,60.509803921568626,67.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|11,51,309,55.11764705882353,55.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|12,51,309,48.31372549019608,48.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|2,51,309,41.96078431372549,35.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|3,51,309,45.13725490196079,40.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|4,51,309,49.84313725490196,50.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|5,51,309,55.411764705882355,59.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|6,51,309,44.05882352941177,45.0
+frozen_full_history,Non-experimental heuristics and biases|QID290|7,51,309,62.31372549019608,64.0
+frozen_full_history,Sunk cost - no|QID181|0,164,164,6.847560975609756,5.5
+frozen_full_history,Sunk cost - yes|QID182|0,145,145,6.062068965517241,5.0
+frozen_bm25,Anchoring - African countries high|QID166|0,154,154,50.12987012987013,50.0
+frozen_bm25,Anchoring - African countries low|QID164|0,155,155,34.45161290322581,32.0
+frozen_bm25,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_bm25,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_bm25,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_bm25,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|1,309,309,34.51456310679612,32.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|10,309,309,53.35275080906149,55.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|11,309,309,48.349514563106794,47.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|12,309,309,46.28155339805825,44.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|2,309,309,35.82200647249191,35.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|3,309,309,38.50161812297735,35.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|4,309,309,45.36893203883495,45.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|5,309,309,49.03883495145631,50.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|6,309,309,38.57281553398058,40.0
+frozen_bm25,Non-experimental heuristics and biases|QID290|7,309,309,56.359223300970875,60.0
+frozen_bm25,Sunk cost - no|QID181|0,164,164,7.914634146341464,8.0
+frozen_bm25,Sunk cost - yes|QID182|0,145,145,5.317241379310345,5.0
+frozen_semantic,Anchoring - African countries high|QID166|0,154,154,50.12987012987013,50.0
+frozen_semantic,Anchoring - African countries low|QID164|0,155,155,34.45161290322581,32.0
+frozen_semantic,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_semantic,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_semantic,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_semantic,Base-rate 70 engineers|QID156|1,155,155,70.85741935483871,70.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|1,309,309,23.71197411003236,20.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|10,309,309,53.27831715210356,55.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|11,309,309,48.310679611650485,47.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|12,309,309,46.51132686084142,44.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|2,309,309,36.13268608414239,35.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|3,309,309,38.94822006472492,37.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|4,309,309,45.28155339805825,45.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|5,309,309,49.49190938511327,50.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|6,309,309,38.103559870550164,40.0
+frozen_semantic,Non-experimental heuristics and biases|QID290|7,309,309,56.11974110032362,60.0
+frozen_semantic,Sunk cost - no|QID181|0,164,164,7.097560975609756,7.0
+frozen_semantic,Sunk cost - yes|QID182|0,145,145,5.089655172413793,5.0
+frozen_hybrid,Anchoring - African countries high|QID166|0,154,154,50.12987012987013,50.0
+frozen_hybrid,Anchoring - African countries low|QID164|0,155,155,34.45161290322581,32.0
+frozen_hybrid,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_hybrid,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_hybrid,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_hybrid,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|1,309,309,25.058252427184467,20.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|10,309,309,48.333333333333336,50.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|11,309,309,46.05177993527508,45.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|12,309,309,46.05177993527508,43.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|2,309,309,40.702265372168284,40.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|3,309,309,42.980582524271846,40.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|4,309,309,45.262135922330096,44.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|5,309,309,46.73462783171521,45.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|6,309,309,41.81877022653722,42.0
+frozen_hybrid,Non-experimental heuristics and biases|QID290|7,309,309,49.77022653721683,52.0
+frozen_hybrid,Sunk cost - no|QID181|0,164,164,6.902439024390244,5.5
+frozen_hybrid,Sunk cost - yes|QID182|0,145,145,5.110344827586207,5.0
+frozen_shuffled_42,Anchoring - African countries high|QID166|0,154,154,48.935064935064936,49.0
+frozen_shuffled_42,Anchoring - African countries low|QID164|0,155,155,33.303225806451614,31.0
+frozen_shuffled_42,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_shuffled_42,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_shuffled_42,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_shuffled_42,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|1,51,309,44.31372549019608,43.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|10,51,309,62.88235294117647,64.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|11,51,309,56.21568627450981,55.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|12,51,309,52.509803921568626,50.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|2,51,309,40.80392156862745,38.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|3,51,309,49.07843137254902,45.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|4,51,309,51.470588235294116,50.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|5,51,309,56.509803921568626,57.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|6,51,309,43.80392156862745,45.0
+frozen_shuffled_42,Non-experimental heuristics and biases|QID290|7,51,309,65.98039215686275,68.0
+frozen_shuffled_42,Sunk cost - no|QID181|0,164,164,6.7317073170731705,6.0
+frozen_shuffled_42,Sunk cost - yes|QID182|0,145,145,6.13103448275862,5.0
+frozen_shuffled_43,Anchoring - African countries high|QID166|0,154,154,48.97402597402598,49.0
+frozen_shuffled_43,Anchoring - African countries low|QID164|0,155,155,33.27741935483871,31.0
+frozen_shuffled_43,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_shuffled_43,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_shuffled_43,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_shuffled_43,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|1,51,309,43.05882352941177,42.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|10,51,309,61.84313725490196,66.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|11,51,309,51.11764705882353,49.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|12,51,309,52.98039215686274,50.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|2,51,309,42.23529411764706,42.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|3,51,309,44.3921568627451,42.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|4,51,309,51.78431372549019,50.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|5,51,309,56.03921568627451,55.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|6,51,309,46.90196078431372,45.0
+frozen_shuffled_43,Non-experimental heuristics and biases|QID290|7,51,309,62.411764705882355,65.0
+frozen_shuffled_43,Sunk cost - no|QID181|0,164,164,7.176829268292683,7.0
+frozen_shuffled_43,Sunk cost - yes|QID182|0,145,145,5.882758620689655,5.0
+frozen_shuffled_44,Anchoring - African countries high|QID166|0,154,154,48.96103896103896,49.0
+frozen_shuffled_44,Anchoring - African countries low|QID164|0,155,155,33.27741935483871,31.0
+frozen_shuffled_44,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_shuffled_44,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_shuffled_44,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_shuffled_44,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|1,51,309,40.509803921568626,37.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|10,51,309,61.0,61.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|11,51,309,53.76470588235294,52.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|12,51,309,51.13725490196079,50.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|2,51,309,46.35294117647059,40.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|3,51,309,46.05882352941177,49.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|4,51,309,53.411764705882355,55.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|5,51,309,52.88235294117647,56.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|6,51,309,44.333333333333336,48.0
+frozen_shuffled_44,Non-experimental heuristics and biases|QID290|7,51,309,64.01960784313725,66.0
+frozen_shuffled_44,Sunk cost - no|QID181|0,164,164,6.7926829268292686,5.5
+frozen_shuffled_44,Sunk cost - yes|QID182|0,145,145,5.606896551724138,5.0
+frozen_shuffled,Anchoring - African countries high|QID166|0,154,154,48.95670995670996,49.0
+frozen_shuffled,Anchoring - African countries low|QID164|0,155,155,33.28602150537635,31.0
+frozen_shuffled,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_shuffled,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_shuffled,Base-rate 30 engineers|QID154|1,154,154,52.14935064935065,50.0
+frozen_shuffled,Base-rate 70 engineers|QID156|1,155,155,70.86451612903225,70.0
+frozen_shuffled,Non-experimental heuristics and biases|QID290|1,2,309,54.16666666666667,54.16666666666667
+frozen_shuffled,Non-experimental heuristics and biases|QID290|10,2,309,76.66666666666666,76.66666666666666
+frozen_shuffled,Non-experimental heuristics and biases|QID290|11,2,309,49.16666666666667,49.16666666666667
+frozen_shuffled,Non-experimental heuristics and biases|QID290|12,2,309,39.166666666666664,39.166666666666664
+frozen_shuffled,Non-experimental heuristics and biases|QID290|2,2,309,29.166666666666668,29.166666666666668
+frozen_shuffled,Non-experimental heuristics and biases|QID290|3,2,309,49.16666666666667,49.16666666666667
+frozen_shuffled,Non-experimental heuristics and biases|QID290|4,2,309,54.166666666666664,54.166666666666664
+frozen_shuffled,Non-experimental heuristics and biases|QID290|5,2,309,74.16666666666666,74.16666666666666
+frozen_shuffled,Non-experimental heuristics and biases|QID290|6,2,309,44.166666666666664,44.166666666666664
+frozen_shuffled,Non-experimental heuristics and biases|QID290|7,2,309,76.66666666666666,76.66666666666666
+frozen_shuffled,Sunk cost - no|QID181|0,164,164,6.900406504065042,6.833333333333334
+frozen_shuffled,Sunk cost - yes|QID182|0,145,145,5.873563218390805,5.0
+frozen_random_42,Anchoring - African countries high|QID166|0,152,154,48.296052631578945,49.0
+frozen_random_42,Anchoring - African countries low|QID164|0,155,155,32.651612903225804,30.0
+frozen_random_42,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_random_42,Anchoring - redwood low|QID168|0,147,147,103.25374149659864,50.0
+frozen_random_42,Base-rate 30 engineers|QID154|1,154,154,52.13766233766234,50.0
+frozen_random_42,Base-rate 70 engineers|QID156|1,155,155,70.85322580645162,70.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|1,309,309,41.65695792880259,40.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|10,309,309,46.37864077669903,45.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|11,309,309,43.83171521035599,45.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|12,309,309,45.83171521035599,46.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|2,309,309,43.25889967637541,41.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|3,309,309,46.26860841423948,45.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|4,309,309,47.73462783171521,48.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|5,309,309,47.090614886731395,48.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|6,309,309,45.676375404530745,45.0
+frozen_random_42,Non-experimental heuristics and biases|QID290|7,309,309,48.0873786407767,50.0
+frozen_random_42,Sunk cost - no|QID181|0,164,164,6.7682926829268295,7.0
+frozen_random_42,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+frozen_random_43,Anchoring - African countries high|QID166|0,154,154,48.33766233766234,49.0
+frozen_random_43,Anchoring - African countries low|QID164|0,154,155,32.77272727272727,30.0
+frozen_random_43,Anchoring - redwood high|QID170|0,162,162,827.9771604938271,400.0
+frozen_random_43,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+frozen_random_43,Base-rate 30 engineers|QID154|1,154,154,52.14675324675325,50.0
+frozen_random_43,Base-rate 70 engineers|QID156|1,155,155,70.85709677419354,70.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|1,309,309,41.983818770226534,40.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|10,309,309,46.59870550161812,46.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|11,309,309,45.359223300970875,45.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|12,309,309,43.6957928802589,42.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|2,309,309,43.92556634304207,44.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|3,309,309,42.702265372168284,40.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|4,309,309,45.63106796116505,47.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|5,309,309,44.66990291262136,45.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|6,309,309,44.58899676375405,44.0
+frozen_random_43,Non-experimental heuristics and biases|QID290|7,309,309,48.31391585760518,50.0
+frozen_random_43,Sunk cost - no|QID181|0,164,164,6.621951219512195,6.0
+frozen_random_43,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+frozen_random_44,Anchoring - African countries high|QID166|0,153,154,48.28104575163399,49.0
+frozen_random_44,Anchoring - African countries low|QID164|0,154,155,32.87012987012987,30.0
+frozen_random_44,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+frozen_random_44,Anchoring - redwood low|QID168|0,147,147,103.79795918367347,50.0
+frozen_random_44,Base-rate 30 engineers|QID154|1,154,154,52.13694805194805,50.0
+frozen_random_44,Base-rate 70 engineers|QID156|1,155,155,70.86064516129032,70.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|1,309,309,42.82521035598705,41.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|10,309,309,49.87378640776699,50.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|11,309,309,46.88025889967638,45.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|12,309,309,45.715210355987054,46.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|2,309,309,43.97734627831715,44.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|3,309,309,45.80258899676375,45.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|4,309,309,45.728155339805824,45.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|5,309,309,47.68608414239482,49.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|6,309,309,44.970873786407765,44.0
+frozen_random_44,Non-experimental heuristics and biases|QID290|7,309,309,49.84789644012945,50.0
+frozen_random_44,Sunk cost - no|QID181|0,164,164,6.658536585365853,6.0
+frozen_random_44,Sunk cost - yes|QID182|0,145,145,4.827586206896552,5.0
+frozen_random,Anchoring - African countries high|QID166|0,151,154,48.317880794701985,48.666666666666664
+frozen_random,Anchoring - African countries low|QID164|0,153,155,32.71677559912854,29.666666666666668
+frozen_random,Anchoring - redwood high|QID170|0,162,162,827.7713991769548,400.0
+frozen_random,Anchoring - redwood low|QID168|0,147,147,103.29909297052154,50.0
+frozen_random,Base-rate 30 engineers|QID154|1,154,154,52.14045454545454,50.0
+frozen_random,Base-rate 70 engineers|QID156|1,155,155,70.85698924731183,70.0
+frozen_random,Non-experimental heuristics and biases|QID290|1,309,309,42.155329018338726,40.666666666666664
+frozen_random,Non-experimental heuristics and biases|QID290|10,309,309,47.617044228694716,46.666666666666664
+frozen_random,Non-experimental heuristics and biases|QID290|11,309,309,45.357065803667744,45.0
+frozen_random,Non-experimental heuristics and biases|QID290|12,309,309,45.080906148867314,44.666666666666664
+frozen_random,Non-experimental heuristics and biases|QID290|2,309,309,43.72060409924487,44.0
+frozen_random,Non-experimental heuristics and biases|QID290|3,309,309,44.924487594390506,43.333333333333336
+frozen_random,Non-experimental heuristics and biases|QID290|4,309,309,46.3646170442287,46.333333333333336
+frozen_random,Non-experimental heuristics and biases|QID290|5,309,309,46.48220064724919,46.666666666666664
+frozen_random,Non-experimental heuristics and biases|QID290|6,309,309,45.07874865156419,45.0
+frozen_random,Non-experimental heuristics and biases|QID290|7,309,309,48.74973031283711,47.666666666666664
+frozen_random,Sunk cost - no|QID181|0,164,164,6.682926829268292,6.0
+frozen_random,Sunk cost - yes|QID182|0,145,145,4.786206896551724,5.0
+test_common_answer,Anchoring - African countries high|QID166|0,157,157,15.853503184713375,9.0
+test_common_answer,Anchoring - African countries low|QID164|0,152,152,19.289473684210527,15.0
+test_common_answer,Anchoring - redwood high|QID170|0,166,166,456.49156626506027,212.5
+test_common_answer,Anchoring - redwood low|QID168|0,143,143,101.6993006993007,60.0
+test_common_answer,Base-rate 30 engineers|QID154|1,138,138,21.528985507246375,20.0
+test_common_answer,Base-rate 70 engineers|QID156|1,171,171,10.584795321637428,5.0
+test_common_answer,Non-experimental heuristics and biases|QID290|1,309,309,16.75728155339806,13.0
+test_common_answer,Non-experimental heuristics and biases|QID290|10,309,309,18.73139158576052,15.0
+test_common_answer,Non-experimental heuristics and biases|QID290|11,309,309,16.750809061488674,14.0
+test_common_answer,Non-experimental heuristics and biases|QID290|12,309,309,18.676375404530745,17.0
+test_common_answer,Non-experimental heuristics and biases|QID290|2,309,309,17.203883495145632,15.0
+test_common_answer,Non-experimental heuristics and biases|QID290|3,309,309,17.964401294498384,15.0
+test_common_answer,Non-experimental heuristics and biases|QID290|4,309,309,17.676375404530745,14.0
+test_common_answer,Non-experimental heuristics and biases|QID290|5,309,309,16.249190938511326,14.0
+test_common_answer,Non-experimental heuristics and biases|QID290|6,309,309,15.766990291262136,11.0
+test_common_answer,Non-experimental heuristics and biases|QID290|7,309,309,17.006472491909385,14.0
+test_common_answer,Sunk cost - no|QID181|0,151,151,4.132450331125828,4.0
+test_common_answer,Sunk cost - yes|QID182|0,158,158,4.753164556962025,5.0
+test_price_aware,Anchoring - African countries high|QID166|0,157,157,15.853503184713375,9.0
+test_price_aware,Anchoring - African countries low|QID164|0,152,152,19.289473684210527,15.0
+test_price_aware,Anchoring - redwood high|QID170|0,166,166,456.49156626506027,212.5
+test_price_aware,Anchoring - redwood low|QID168|0,143,143,101.6993006993007,60.0
+test_price_aware,Base-rate 30 engineers|QID154|1,138,138,21.528985507246375,20.0
+test_price_aware,Base-rate 70 engineers|QID156|1,171,171,10.584795321637428,5.0
+test_price_aware,Non-experimental heuristics and biases|QID290|1,309,309,16.75728155339806,13.0
+test_price_aware,Non-experimental heuristics and biases|QID290|10,309,309,18.73139158576052,15.0
+test_price_aware,Non-experimental heuristics and biases|QID290|11,309,309,16.750809061488674,14.0
+test_price_aware,Non-experimental heuristics and biases|QID290|12,309,309,18.676375404530745,17.0
+test_price_aware,Non-experimental heuristics and biases|QID290|2,309,309,17.203883495145632,15.0
+test_price_aware,Non-experimental heuristics and biases|QID290|3,309,309,17.964401294498384,15.0
+test_price_aware,Non-experimental heuristics and biases|QID290|4,309,309,17.676375404530745,14.0
+test_price_aware,Non-experimental heuristics and biases|QID290|5,309,309,16.249190938511326,14.0
+test_price_aware,Non-experimental heuristics and biases|QID290|6,309,309,15.766990291262136,11.0
+test_price_aware,Non-experimental heuristics and biases|QID290|7,309,309,17.006472491909385,14.0
+test_price_aware,Sunk cost - no|QID181|0,151,151,4.132450331125828,4.0
+test_price_aware,Sunk cost - yes|QID182|0,158,158,4.753164556962025,5.0
+test_human_retest,Anchoring - African countries high|QID166|0,157,157,14.547770700636942,8.0
+test_human_retest,Anchoring - African countries low|QID164|0,152,152,12.013157894736842,5.0
+test_human_retest,Anchoring - redwood high|QID170|0,166,166,353.07590361445784,122.5
+test_human_retest,Anchoring - redwood low|QID168|0,143,143,76.77832167832167,33.0
+test_human_retest,Base-rate 30 engineers|QID154|1,138,138,19.333333333333332,13.5
+test_human_retest,Base-rate 70 engineers|QID156|1,171,171,14.859649122807017,8.0
+test_human_retest,Non-experimental heuristics and biases|QID290|1,309,309,14.233009708737864,10.0
+test_human_retest,Non-experimental heuristics and biases|QID290|10,309,309,17.462783171521036,12.0
+test_human_retest,Non-experimental heuristics and biases|QID290|11,309,309,15.372168284789645,10.0
+test_human_retest,Non-experimental heuristics and biases|QID290|12,309,309,16.631067961165048,10.0
+test_human_retest,Non-experimental heuristics and biases|QID290|2,309,309,16.10355987055016,12.0
+test_human_retest,Non-experimental heuristics and biases|QID290|3,309,309,15.200647249190938,10.0
+test_human_retest,Non-experimental heuristics and biases|QID290|4,309,309,16.54692556634304,11.0
+test_human_retest,Non-experimental heuristics and biases|QID290|5,309,309,16.297734627831716,12.0
+test_human_retest,Non-experimental heuristics and biases|QID290|6,309,309,15.035598705501618,10.0
+test_human_retest,Non-experimental heuristics and biases|QID290|7,309,309,14.766990291262136,10.0
+test_human_retest,Sunk cost - no|QID181|0,151,151,3.7152317880794703,2.0
+test_human_retest,Sunk cost - yes|QID182|0,158,158,4.272151898734177,3.0
+sft_question_only,Anchoring - African countries high|QID166|0,154,154,35.58441558441559,35.0
+sft_question_only,Anchoring - African countries low|QID164|0,155,155,22.26451612903226,17.0
+sft_question_only,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_question_only,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_question_only,Base-rate 30 engineers|QID154|1,154,154,24.383116883116884,22.0
+sft_question_only,Base-rate 70 engineers|QID156|1,155,155,10.438709677419356,5.0
+sft_question_only,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+sft_question_only,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+sft_question_only,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+sft_question_only,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+sft_question_only,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+sft_question_only,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+sft_question_only,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+sft_question_only,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+sft_question_only,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+sft_question_only,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+sft_question_only,Sunk cost - no|QID181|0,164,164,3.7378048780487805,3.0
+sft_question_only,Sunk cost - yes|QID182|0,145,145,5.655172413793103,5.0
+sft_full_history,Anchoring - African countries high|QID166|0,154,154,23.68831168831169,20.0
+sft_full_history,Anchoring - African countries low|QID164|0,155,155,18.18709677419355,19.0
+sft_full_history,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_full_history,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_full_history,Base-rate 30 engineers|QID154|1,154,154,22.72077922077922,20.0
+sft_full_history,Base-rate 70 engineers|QID156|1,155,155,11.729032258064516,5.0
+sft_full_history,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+sft_full_history,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+sft_full_history,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+sft_full_history,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+sft_full_history,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+sft_full_history,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+sft_full_history,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+sft_full_history,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+sft_full_history,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+sft_full_history,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+sft_full_history,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+sft_full_history,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+sft_hybrid,Anchoring - African countries high|QID166|0,154,154,26.025974025974026,22.5
+sft_hybrid,Anchoring - African countries low|QID164|0,155,155,19.09032258064516,20.0
+sft_hybrid,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_hybrid,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_hybrid,Base-rate 30 engineers|QID154|1,154,154,23.785714285714285,20.5
+sft_hybrid,Base-rate 70 engineers|QID156|1,155,155,21.75483870967742,20.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|1,309,309,22.093851132686083,20.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|10,309,309,37.40129449838188,36.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|11,309,309,31.184466019417474,30.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|12,309,309,29.566343042071196,24.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|2,309,309,22.37864077669903,20.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|3,309,309,23.944983818770226,20.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|4,309,309,28.666666666666668,26.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|5,309,309,32.14563106796116,30.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|6,309,309,23.514563106796118,20.0
+sft_hybrid,Non-experimental heuristics and biases|QID290|7,309,309,39.019417475728154,41.0
+sft_hybrid,Sunk cost - no|QID181|0,164,164,6.524390243902439,6.0
+sft_hybrid,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+sft_shuffled_42,Anchoring - African countries high|QID166|0,154,154,24.272727272727273,21.5
+sft_shuffled_42,Anchoring - African countries low|QID164|0,155,155,18.548387096774192,20.0
+sft_shuffled_42,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_shuffled_42,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_shuffled_42,Base-rate 30 engineers|QID154|1,154,154,24.383116883116884,24.0
+sft_shuffled_42,Base-rate 70 engineers|QID156|1,155,155,10.438709677419356,5.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+sft_shuffled_42,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+sft_shuffled_42,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+sft_shuffled_42,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+sft_shuffled_43,Anchoring - African countries high|QID166|0,154,154,24.11038961038961,20.0
+sft_shuffled_43,Anchoring - African countries low|QID164|0,155,155,18.4,20.0
+sft_shuffled_43,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_shuffled_43,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_shuffled_43,Base-rate 30 engineers|QID154|1,154,154,26.123376623376622,25.0
+sft_shuffled_43,Base-rate 70 engineers|QID156|1,155,155,11.729032258064516,5.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+sft_shuffled_43,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+sft_shuffled_43,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+sft_shuffled_43,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+sft_shuffled_44,Anchoring - African countries high|QID166|0,154,154,23.850649350649352,20.0
+sft_shuffled_44,Anchoring - African countries low|QID164|0,155,155,18.0,20.0
+sft_shuffled_44,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_shuffled_44,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_shuffled_44,Base-rate 30 engineers|QID154|1,154,154,22.448051948051948,20.0
+sft_shuffled_44,Base-rate 70 engineers|QID156|1,155,155,11.083870967741936,5.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+sft_shuffled_44,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+sft_shuffled_44,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+sft_shuffled_44,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+sft_shuffled,Anchoring - African countries high|QID166|0,154,154,24.07792207792208,21.0
+sft_shuffled,Anchoring - African countries low|QID164|0,155,155,18.316129032258065,20.0
+sft_shuffled,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+sft_shuffled,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+sft_shuffled,Base-rate 30 engineers|QID154|1,154,154,24.318181818181817,23.166666666666664
+sft_shuffled,Base-rate 70 engineers|QID156|1,155,155,11.083870967741936,10.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+sft_shuffled,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+sft_shuffled,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+sft_shuffled,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+selected_calibrated_development,Anchoring - African countries high|QID166|0,154,154,23.68831168831169,20.0
+selected_calibrated_development,Anchoring - African countries low|QID164|0,155,155,18.18709677419355,19.0
+selected_calibrated_development,Anchoring - redwood high|QID170|0,162,162,827.6685185185185,400.0
+selected_calibrated_development,Anchoring - redwood low|QID168|0,147,147,102.8455782312925,50.0
+selected_calibrated_development,Base-rate 30 engineers|QID154|1,154,154,22.72077922077922,20.0
+selected_calibrated_development,Base-rate 70 engineers|QID156|1,155,155,11.729032258064516,5.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|1,309,309,21.537216828478964,19.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|10,309,309,37.34304207119741,36.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|11,309,309,31.016181229773462,29.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|12,309,309,29.300970873786408,25.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|2,309,309,22.15210355987055,20.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|3,309,309,23.763754045307444,20.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|4,309,309,28.368932038834952,26.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|5,309,309,31.854368932038835,30.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|6,309,309,23.37864077669903,20.0
+selected_calibrated_development,Non-experimental heuristics and biases|QID290|7,309,309,38.74110032362459,41.0
+selected_calibrated_development,Sunk cost - no|QID181|0,164,164,6.554878048780488,6.0
+selected_calibrated_development,Sunk cost - yes|QID182|0,145,145,4.76551724137931,5.0
+test_selected_uncalibrated,Anchoring - African countries high|QID166|0,157,157,24.821656050955415,20.0
+test_selected_uncalibrated,Anchoring - African countries low|QID164|0,152,152,18.29605263157895,20.0
+test_selected_uncalibrated,Anchoring - redwood high|QID170|0,166,166,702.1108433734939,400.0
+test_selected_uncalibrated,Anchoring - redwood low|QID168|0,143,143,121.74125874125875,100.0
+test_selected_uncalibrated,Base-rate 30 engineers|QID154|1,138,138,21.847826086956523,20.0
+test_selected_uncalibrated,Base-rate 70 engineers|QID156|1,171,171,11.52046783625731,5.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|1,309,309,23.07766990291262,20.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|10,309,309,36.080906148867314,35.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|11,309,309,29.097087378640776,26.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|12,309,309,28.854368932038835,26.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|2,309,309,19.948220064724918,18.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|3,309,309,23.203883495145632,20.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|4,309,309,28.86084142394822,25.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|5,309,309,30.27508090614887,30.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|6,309,309,20.042071197411005,19.0
+test_selected_uncalibrated,Non-experimental heuristics and biases|QID290|7,309,309,37.88673139158576,40.0
+test_selected_uncalibrated,Sunk cost - no|QID181|0,151,151,6.059602649006623,5.0
+test_selected_uncalibrated,Sunk cost - yes|QID182|0,158,158,4.753164556962025,5.0
+test_selected_calibrated,Anchoring - African countries high|QID166|0,157,157,24.821656050955415,20.0
+test_selected_calibrated,Anchoring - African countries low|QID164|0,152,152,18.29605263157895,20.0
+test_selected_calibrated,Anchoring - redwood high|QID170|0,166,166,702.1108433734939,400.0
+test_selected_calibrated,Anchoring - redwood low|QID168|0,143,143,121.74125874125875,100.0
+test_selected_calibrated,Base-rate 30 engineers|QID154|1,138,138,21.847826086956523,20.0
+test_selected_calibrated,Base-rate 70 engineers|QID156|1,171,171,11.52046783625731,5.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|1,309,309,23.07766990291262,20.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|10,309,309,36.080906148867314,35.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|11,309,309,29.097087378640776,26.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|12,309,309,28.854368932038835,26.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|2,309,309,19.948220064724918,18.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|3,309,309,23.203883495145632,20.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|4,309,309,28.86084142394822,25.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|5,309,309,30.27508090614887,30.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|6,309,309,20.042071197411005,19.0
+test_selected_calibrated,Non-experimental heuristics and biases|QID290|7,309,309,37.88673139158576,40.0
+test_selected_calibrated,Sunk cost - no|QID181|0,151,151,6.059602649006623,5.0
+test_selected_calibrated,Sunk cost - yes|QID182|0,158,158,4.753164556962025,5.0
